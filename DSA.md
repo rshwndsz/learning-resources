@@ -10,6 +10,8 @@
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 * The Art of Computer Programming
 
+Also look at [4 week study plan for an average googler](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri).
+
 ## Courses
 
 * [Princeton - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome)
@@ -25,6 +27,7 @@
 
 ## Important Resources
 
+* [4 week study plan for an average googler](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri)
 * [How to prepare for ACM ICPC?](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
 * [List of most used DSA](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
 

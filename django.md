@@ -2,9 +2,9 @@
 
 ## Starter Projects
 
-* [Building a hacker news clone in Django](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d)
-* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-* [djangox](https://github.com/wsvincent/djangox)
+* [Building a hacker news clone in Django - medium.com](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d)
+* [cookiecutter-django - github.com](https://github.com/pydanny/cookiecutter-django)
+* [djangox - github.com](https://github.com/wsvincent/djangox)
 
 ## Good OS Projects
 
@@ -15,5 +15,10 @@
 
 ### Models
 
-* [An Introduction to the django ORM](http://books.agiliq.com/projects/djenofdjango/en/latest/models-tutorial.html#an-introduction-to-the-django-orm)
-* [Best practices while working with django models](https://steelkiwi.com/blog/best-practices-working-django-models-python/)
+* [An Introduction to the django ORM - djenofdjango](http://books.agiliq.com/projects/djenofdjango/en/latest/models-tutorial.html#an-introduction-to-the-django-orm)
+* [Best practices while working with django models - steelwiki.com](https://steelkiwi.com/blog/best-practices-working-django-models-python/)
+* [Tips for using django's ManyToManyField - revsys.com](https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/)
+
+## Advanced django
+
+* [Celery, Docker & django - revsys.com](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)

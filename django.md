@@ -8,6 +8,7 @@
 
 ## Good OS Projects
 
+* [Mozilla/Kuma](https://github.com/mozilla/kuma)
 * [Zulip](https://github.com/zulip/zulip)
 
 ## Under the hood

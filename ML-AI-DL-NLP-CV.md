@@ -44,15 +44,16 @@ uses Tensorflow
 
 ## Computer Vision
 
-### Books
+### Books on CV
 
-*  [Computer Vision: Algorithms and Applications - Richard Szeliski](http://szeliski.org/Book/)
+* [Computer Vision: Algorithms and Applications - Richard Szeliski](http://szeliski.org/Book/)
 * Computer vision: A modern approach -  Forsyth and Ponce
 * Concise Computer Vision -  Reinhard Klette
 * [Ballard and Brown’s Computer Vision Online](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm)
 * Multiple View Geometry in CV - Hartley and Zisserman
 
 ### Stanford CS231n
+
 Prerequisites = Python, Linear Algebra, CS229(Machine Learning)
 
 * [Course Notes](http://cs231n.github.io/)
@@ -67,7 +68,9 @@ Prerequisites = MATLAB, DS, Linear Algebra, Vector Algebra
 ### MIT 6.869
 
 * [6.869 Course Materials](http://6.869.csail.mit.edu/fa18/materials.html)
-*Brown CS143*
+
+Brown CS143
+
 * [CSCI 1430: Introduction to Computer Vision](http://cs.brown.edu/courses/cs143/)
 
 ## Reinforcement Learning
@@ -80,11 +83,11 @@ Prerequisites = MATLAB, DS, Linear Algebra, Vector Algebra
 
 * [CS230: Deep Learning | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
-### Andrew Ng
+### Andrew Ng's DL Courses
 
 * [Deep Learning Courses](https://www.coursera.org/specializations/deep-learning)
 
-### Books
+### Books on DL
 
 * [Deep Learning by Ian Goodfellow Book](http://www.deeplearningbook.org/)
 * [Neural networks and deep learning - Michael Nielson](http://neuralnetworksanddeeplearning.com/chap1.html)

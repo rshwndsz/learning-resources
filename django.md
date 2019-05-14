@@ -1,5 +1,9 @@
 # django
 
+## Books
+
+* django 2.0 for Beginners by WS Vincent :white_check_mark:
+
 ## Starter Projects
 
 * [Building a hacker news clone in Django - medium.com](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d)

@@ -1,5 +1,34 @@
 # Stuff
 
+## Math for ML
+
+### General
+
+* Mathematics for Machine Learning by Deisenroth, Faisal, Ong
+* [The blunt guide to Mathematically rigorous ML - Medium](https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b)
+* [Best resources I used to teach myself machine learning - Medium](https://medium.freecodecamp.org/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167)
+
+### Linear Algebra
+
+* [Linear Algebra - MIT OCW](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+* [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+### Calculus
+
+* Calculus Made Easy by Thompson
+* [Single Variable Calculus - MIT OCW SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+* [Multivariable Calculus - MIT OCW](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+
+### Statistics
+
+* [Statistics - MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+* [Introduction to Probability - MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+* [Probabilistic System Analysis & Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+
+### Optimization
+
+* [What are some good resources to learn about optimization? - Quora](https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization/answer/Alex-Kamil)
+
 ## Machine Learning
 
 ### Books

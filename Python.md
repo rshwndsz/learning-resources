@@ -1,6 +1,28 @@
 # Python
 
+## The Language
+
+* Learning Python by Mark Lutz :white_check_mark:
+* Fluent Python by Luciano Ramalho :notes:
+* Programming Python by Mark Lutz
+* Python Cookbook by Beazley & Jones :notes:
+* Effective Python by Brett Slatkin
+* Python 3 Standard Library by Example
+
 ## Libraries
+
+### All
+
+* Python for Data Analysis
+* Python Data Science Handbook
+
+### Scipy
+
+* Scipy Lectures
+
+### Matplotlib
+
+* Mastering Matplotlib
 
 ### Pandas
 

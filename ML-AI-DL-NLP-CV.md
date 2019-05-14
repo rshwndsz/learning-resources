@@ -121,11 +121,6 @@ Brown CS143
 * [Deep Learning by Ian Goodfellow Book](http://www.deeplearningbook.org/)
 * [Neural networks and deep learning - Michael Nielson](http://neuralnetworksanddeeplearning.com/chap1.html)
 
-## Tensorflow
-
-* [CS20 @ Stanford: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
-* [Intro to TensorFlow for Deep Learning | Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-
 ## Introduction to Statistical Learning
 
 * [Introduction to Statistical Learning Series - YouTube](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)

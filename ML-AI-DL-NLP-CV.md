@@ -17,6 +17,7 @@
 
 * Calculus Made Easy by Thompson
 * [Single Variable Calculus - MIT OCW SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+* [Multivariable calculus - Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 * [Multivariable Calculus - MIT OCW](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 
 ### Statistics
@@ -29,76 +30,58 @@
 
 * [What are some good resources to learn about optimization? - Quora](https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization/answer/Alex-Kamil)
 
-## Machine Learning
+## Intro to ML
 
 ### Books
 
 * [Machine Learning - Tom Mitchell](http://www.cs.cmu.edu/~tom/mlbook.html)  
+* Introduction to ML by Smola
+* Pattern Recognition & Machine Learning by Bishop
 
-### Pedro Domingo
+### Stanford CS229 by Andrew Ng  
 
-* [CSEP 546, Machine Learning, Sp 2016 - YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr)
-* [Homework](https://courses.cs.washington.edu/courses/csep546/16sp/)  
+* [Lecture Videos - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) :notes:
+* [Course Notes & P-sets](http://cs229.stanford.edu/syllabus.html)
 
 ### Abu-Mostafa
 
-* [Learning From Data - Online Course (MOOC)](https://work.caltech.edu/telecourse.html)  
-
-### Andrew Ng
-
-* [Lecture Collection | Machine Learning - YouTube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)  
-
-### Stanford CS229
-
-Prerequisites = Python, Probability(CS109 / STAT116), Multivariable Calculus & Linear Algebra(MATH51)  
-
-* [Harvard CS 109 - YouTube](https://www.youtube.com/playlist?list=PLnbUBCRh5rN6rxs_qmSMSDZOcjtN4xESt)
-* [Multivariable calculus - YouTube](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
-* [Course Notes & P-sets](http://cs229.stanford.edu/syllabus.html)
-* [cs229 2017 - YouTube](https://www.youtube.com/playlist?list=PLa-Bt050gYuhEeLRG8YBmFxwLvTJ5FqPS)
+* [Lecture Videos - Youtube](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) :notes:
+* [Homework](https://work.caltech.edu/homeworks.html#schedule)
 
 ## NLP
 
-### Stanford CS224n
-
-uses PyTorch
-
-* [CS224N: Natural Language Processing with Deep Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-
-uses Tensorflow
-
-* [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017) - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-
-* [Natural Language Processing with Dan Jurafsky and Chris Manning, 2012 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
+* [CS224n @Stanford | Winter 2019 with PyTorch - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [CS224n @Stanford | Winter 2017 with Tensorflow - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [NLP with Jurafsky & Manning- YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
 
 ## Computer Vision
 
 ### Books on CV
 
-* [Computer Vision: Algorithms and Applications - Richard Szeliski](http://szeliski.org/Book/)
+* Computer Vision: Algorithms and Applications - Richard Szeliski
 * Computer vision: A modern approach -  Forsyth and Ponce
 * Concise Computer Vision -  Reinhard Klette
-* [Ballard and Brown’s Computer Vision Online](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm)
+* Ballard and Brown’s Computer Vision Online
 * Multiple View Geometry in CV - Hartley and Zisserman
 
-### Stanford CS231n
+### Courses on CV
+
+#### Stanford CS231n
 
 Prerequisites = Python, Linear Algebra, CS229(Machine Learning)
 
+* [CNNs for Visual Recognition | Spring 2017 - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Course Notes](http://cs231n.github.io/)
-* [CNNs for Visual Recognition (Spring 2017) - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-### Berkeley CS280
-
-Prerequisites = MATLAB, DS, Linear Algebra, Vector Algebra
+#### Berkeley CS280
 
 * [Course Website](https://people.eecs.berkeley.edu/~trevor/CS280.html)
 
-### MIT 6.869
+#### MIT 6.869
 
 * [6.869 Course Materials](http://6.869.csail.mit.edu/fa18/materials.html)
 
-Brown CS143
+#### Brown CS143
 
 * [CSCI 1430: Introduction to Computer Vision](http://cs.brown.edu/courses/cs143/)
 
@@ -108,13 +91,10 @@ Brown CS143
 
 ## Deep Learning
 
-### Stanford CS230
+### Courses
 
 * [CS230: Deep Learning | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-
-### Andrew Ng's DL Courses
-
-* [Deep Learning Courses](https://www.coursera.org/specializations/deep-learning)
+* [Deep Learning by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 
 ### Books on DL
 

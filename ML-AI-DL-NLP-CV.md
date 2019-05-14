@@ -38,15 +38,21 @@
 * Introduction to ML by Smola
 * Pattern Recognition & Machine Learning by Bishop
 
-### Stanford CS229 by Andrew Ng  
+### Courses on Intro to ML
+
+#### Stanford CS229 by Andrew Ng  
 
 * [Lecture Videos - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) :notes:
 * [Course Notes & P-sets](http://cs229.stanford.edu/syllabus.html)
 
-### Abu-Mostafa
+#### Abu-Mostafa
 
 * [Lecture Videos - Youtube](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) :notes:
 * [Homework](https://work.caltech.edu/homeworks.html#schedule)
+
+#### Google
+
+* [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
 
 ## NLP
 
@@ -91,7 +97,7 @@ Prerequisites = Python, Linear Algebra, CS229(Machine Learning)
 
 ## Deep Learning
 
-### Courses
+### Courses on DL
 
 * [CS230: Deep Learning | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 * [Deep Learning by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
@@ -110,6 +116,7 @@ Prerequisites = Python, Linear Algebra, CS229(Machine Learning)
 
 ## Other Books & Blogs
 
+* [Google AI/Education](https://ai.google/education)
 * [Home - colah’s blog](http://colah.github.io/)
 * [distill.pub - Blog](https://distill.pub/)
 * [Sebastian Ruder’s Blog](http://ruder.io/)

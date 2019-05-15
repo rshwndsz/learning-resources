@@ -43,7 +43,10 @@
 #### Stanford CS229 by Andrew Ng  
 
 * [Lecture Videos - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) :notes:
-* [Course Notes & P-sets](http://cs229.stanford.edu/syllabus.html)
+* [Notes by Andrew Ng](http://cs229.stanford.edu/notes/)
+* [Lecture Notes by Tyler Neylon](http://tylerneylon.com/notes/cs229/cs229.pdf)
+* [Lecture Notes on HoleHouse](http://www.holehouse.org/mlclass/)
+* [Most Recent Course Notes & Syllabus](http://cs229.stanford.edu/syllabus.html)
 
 #### Abu-Mostafa
 

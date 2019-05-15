@@ -47,6 +47,7 @@
 * [Lecture Notes by Tyler Neylon](http://tylerneylon.com/notes/cs229/cs229.pdf)
 * [Lecture Notes on HoleHouse](http://www.holehouse.org/mlclass/)
 * [Most Recent Course Notes & Syllabus](http://cs229.stanford.edu/syllabus.html)
+* [Cheatsheet by Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 
 #### Abu-Mostafa
 

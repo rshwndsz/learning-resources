@@ -115,10 +115,15 @@ Prerequisites = Python, Linear Algebra, CS229(Machine Learning)
 
 ## Introduction to Statistical Learning
 
+### Books on Statistical Learning
+
+* [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) [[7.ed]](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
+* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//) [[12.ed]](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)
+
+### Courses
+
 * [Introduction to Statistical Learning Series - YouTube](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
-* [Introduction to Statistical Learning - Book](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Py Notebooks for statlearning@stanford](https://github.com/sujitpal/statlearning-notebooks)
-* [Elements of Statistical Learning - Book](https://web.stanford.edu/~hastie/ElemStatLearn//)
 
 ## Other Books & Blogs
 

@@ -81,7 +81,8 @@
 
 Prerequisites = Python, Linear Algebra, CS229(Machine Learning)
 
-* [CNNs for Visual Recognition | Spring 2017 - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [CS231n | Spring 2017 - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [Detailed Syllabus](http://cs231n.stanford.edu/syllabus.html)
 * [Course Notes](http://cs231n.github.io/)
 
 #### Berkeley CS280

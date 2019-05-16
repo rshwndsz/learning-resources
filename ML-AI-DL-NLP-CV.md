@@ -81,6 +81,14 @@
 
 ### Courses on CV
 
+#### Stanford CS131a
+
+* [CS131a Homepage](http://vision.stanford.edu/teaching/cs131_fall1819/index.html)
+
+#### Stanford CS223b
+
+* [CS223b Syllabus](http://vision.stanford.edu/teaching/cs223b/syllabus.html)
+
 #### Stanford CS231n
 
 Prerequisites = Python, Linear Algebra, CS229(Machine Learning)

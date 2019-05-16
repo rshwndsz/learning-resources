@@ -59,6 +59,10 @@
 
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
 
+## Neural Networks
+
+* [CSC321 - Intro to Neural Networks & ML by Geoffrey Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
+
 ## NLP
 
 * [CS224n @Stanford | Winter 2019 with PyTorch - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
@@ -128,6 +132,7 @@ Prerequisites = Python, Linear Algebra, CS229(Machine Learning)
 ## Other Books & Blogs
 
 * [Google AI/Education](https://ai.google/education)
+* [Geoffrey Hinton's Page](http://www.cs.toronto.edu/~hinton/)
 * [Home - colah’s blog](http://colah.github.io/)
 * [distill.pub - Blog](https://distill.pub/)
 * [Sebastian Ruder’s Blog](http://ruder.io/)

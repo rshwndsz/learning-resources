@@ -34,7 +34,6 @@
 
 ### Books
 
-* [Machine Learning - Tom Mitchell](http://www.cs.cmu.edu/~tom/mlbook.html)  
 * Introduction to ML by Smola
 * Pattern Recognition & Machine Learning by Bishop
 * Learning with Kernels by Smola & Schölkopf for SVMs

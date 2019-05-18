@@ -15,7 +15,6 @@
 
 ### Calculus
 
-* Calculus Made Easy by Thompson
 * [Single Variable Calculus - MIT OCW SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 * [Multivariable calculus - Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 * [Multivariable Calculus - MIT OCW](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)

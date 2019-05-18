@@ -28,6 +28,9 @@
 
 ### Optimization
 
+* Convex Optimization by Boyd & Vandenberghe
+* [10-725 by Ryan Tibshirani - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)
+* [Convex Optimisation by Boyd](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 * [What are some good resources to learn about optimization? - Quora](https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization/answer/Alex-Kamil)
 
 ## Intro to ML

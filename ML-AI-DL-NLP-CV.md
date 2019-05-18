@@ -5,6 +5,7 @@
 ### General
 
 * Mathematics for Machine Learning by Deisenroth, Faisal, Ong
+* [Matrix Methods in Data Science, Signal Processing, Machine Learning by Gilbert Strang (Spring 2018) - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 * [The blunt guide to Mathematically rigorous ML - Medium](https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b)
 * [Best resources I used to teach myself machine learning - Medium](https://medium.freecodecamp.org/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167)
 

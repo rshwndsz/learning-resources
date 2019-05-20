@@ -19,6 +19,7 @@ Also look at [4 week study plan for an average googler](https://www.linkedin.com
 * [MIT 6.006 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 * [Stanford CS106b - Programming Abstractions](https://www.youtube.com/playlist?list=PL68B1C461C46883FE)
 * [Berkeley CS61b - Data Structures](https://www.youtube.com/playlist?list=PLGEPPJVr9TfOt404VxZaQK-hLkcbCrTyP)
+* [Tim Roughgarden's Video Lectures](http://timroughgarden.org/videos.html)
 
 ## Coding Sites
 

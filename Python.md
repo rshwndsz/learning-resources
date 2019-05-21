@@ -4,7 +4,7 @@
 
 * Learning Python by Mark Lutz :white_check_mark:
 * Fluent Python by Luciano Ramalho :notes:
-* Programming Python by Mark Lutz
+* Programming Python by Mark Lutz :notes:
 * Python Cookbook by Beazley & Jones :notes:
 * Effective Python by Brett Slatkin
 * Python 3 Standard Library by Example

@@ -2,7 +2,7 @@
 
 ## Courses
 
-* [Fundamentals of Digital Image & Video Processing by NorthWestern University @ Coursera](https://www.coursera.org/learn/digital/home/welcome)
+* [Fundamentals of Digital Image & Video Processing by NorthWestern University @ Coursera](https://www.coursera.org/learn/digital/home/welcome) :notes:
 * [Image & Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University @ Coursera](https://www.coursera.org/learn/image-processing/home/welcome)
 * [EENG 512 by William Hoff](https://www.youtube.com/playlist?list=PL4B3F8D4A5CAD8DA3)
 * [Intro to CV @ Udacity](https://www.udacity.com/course/introduction-to-computer-vision--ud810#)

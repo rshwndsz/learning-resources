@@ -46,9 +46,9 @@
 #### Stanford CS229 by Andrew Ng  
 
 * [Lecture Videos - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) :notes:
-* [Notes by Andrew Ng](http://cs229.stanford.edu/notes/)
+* [Notes by Andrew Ng](http://cs229.stanford.edu/notes/) :notes:
 * Psets [[1]](http://github.com/ccombier/CS229/blob/master/Problem1/ps1.pdf) [[2]](http://github.com/ccombier/CS229/blob/master/Problem2/ps2.pdf) [[3]](http://github.com/ccombier/CS229/blob/master/Problem3/ps3.pdf) [[4]](http://github.com/ccombier/CS229/blob/master/Problem4/ps4.pdf)
-* [Lecture Notes by Tyler Neylon](http://tylerneylon.com/notes/cs229/cs229.pdf)
+* [Lecture Notes by Tyler Neylon](http://tylerneylon.com/notes/cs229/cs229.pdf) :notes:
 * [Lecture Notes on HoleHouse](http://www.holehouse.org/mlclass/)
 * [Most Recent Course Notes & Syllabus](http://cs229.stanford.edu/syllabus.html)
 * [Cheatsheet by Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
@@ -88,7 +88,7 @@
 
 Prerequisites = Python, Linear Algebra, CS229(Machine Learning)
 
-* [CS231n | Spring 2017 - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [CS231n | Spring 2017 - YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) :notes:
 * [Detailed Syllabus](http://cs231n.stanford.edu/syllabus.html)
 * [Course Notes](http://cs231n.github.io/)
 

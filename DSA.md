@@ -14,7 +14,7 @@ Also look at [4 week study plan for an average googler](https://www.linkedin.com
 
 ## Courses
 
-* [Princeton - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+* [Princeton - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) :notes:
 * [Princeton - Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 * [MIT 6.006 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 * [Stanford CS106b - Programming Abstractions](https://www.youtube.com/playlist?list=PL68B1C461C46883FE)

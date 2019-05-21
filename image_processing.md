@@ -1,5 +1,11 @@
 # Image Processing
 
+## Books
+
+* Digital Image Processing by Rafael C. Gonzalez & Richard E. Woods
+* Handbook of Image & Video Processing by Al Bovik
+* Biomedical Signal & Image Processin by Robert Splinter & Kayvan Najarian
+
 ## Courses
 
 * [Fundamentals of Digital Image & Video Processing by NorthWestern University @ Coursera](https://www.coursera.org/learn/digital/home/welcome) :notes:

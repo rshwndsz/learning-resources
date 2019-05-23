@@ -10,6 +10,7 @@
 ### Linear Algebra
 
 * [Linear Algebra - MIT OCW](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+* [EE263 Introduction to Linear Dynamical Systems @ Stanford](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 * [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### Calculus
@@ -29,7 +30,6 @@
 * Convex Optimization by Boyd & Vandenberghe
 * [10-725 by Ryan Tibshirani - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)
 * [Convex Optimisation by Boyd](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
-* [What are some good resources to learn about optimization? - Quora](https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization/answer/Alex-Kamil)
 
 ## Intro to ML
 
@@ -132,3 +132,4 @@
 * [Awesome Courses by prakhar1989](https://github.com/prakhar1989/awesome-courses)
 * [The blunt guide to Mathematically rigorous ML - Medium](https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b)
 * [Best resources I used to teach myself machine learning - Medium](https://medium.freecodecamp.org/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167)
+* [What are some good resources to learn about optimization? - Quora](https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization/answer/Alex-Kamil)

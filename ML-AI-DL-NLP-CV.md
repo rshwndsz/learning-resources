@@ -13,23 +13,33 @@
 * [EE263 Introduction to Linear Dynamical Systems @ Stanford](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 * [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+### Probability
+
+* [STAT 110 Probability @ Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [RES 6.012 Introduction to Probability @ MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+* [Probability Primer by mathematicalmonk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
+* [Probabilistic System Analysis & Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+
 ### Calculus
 
 * [Single Variable Calculus - MIT OCW SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 * [Multivariable calculus - Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 * [Multivariable Calculus - MIT OCW](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 
-### Statistics
-
-* [Statistics - MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-* [Introduction to Probability - MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-* [Probabilistic System Analysis & Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
-
 ### Optimization
 
 * Convex Optimization by Boyd & Vandenberghe
 * [10-725 by Ryan Tibshirani - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)
 * [Convex Optimisation by Boyd](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
+
+### Statistics
+
+* Statistical Learning
+  * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+  * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
+  * [Introduction to Statistical Learning Video Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
+  * [Py Notebooks for statlearning@stanford](https://github.com/sujitpal/statlearning-notebooks)
+* [Statistics - MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## Intro to ML
 
@@ -50,7 +60,7 @@
   * [Lecture Notes on HoleHouse](http://www.holehouse.org/mlclass/)
   * [Most Recent Course Notes & Syllabus](http://cs229.stanford.edu/syllabus.html)
   * [Cheatsheet by Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
-
+* [ML by mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
 
 ## Deep Learning & Neural Networks
@@ -105,18 +115,6 @@
 * [6.581 Advanced Data Structures @ MIT](http://courses.csail.mit.edu/6.851/fall17/)
 * [CS229r Algorithms for Big Data @ Harvard](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)
 * [Info 290 Analysing Big Data with Twitter @ Berkeley](https://www.ischool.berkeley.edu/courses/info/290/abdt)
-
-## Introduction to Statistical Learning
-
-### Books on Statistical Learning
-
-* [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) [[7.ed]](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
-* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//) [[12.ed]](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)
-
-### Courses on Statistical Learning
-
-* [Introduction to Statistical Learning Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
-* [Py Notebooks for statlearning@stanford](https://github.com/sujitpal/statlearning-notebooks)
 
 ## Blogs
 

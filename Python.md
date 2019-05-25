@@ -32,6 +32,7 @@
 
 ### Tensorflow
 
+* [Tensorflow tutorial @ Scipy Japan 2019](https://www.youtube.com/watch?v=Yyv-ng0_OTU&linkId=67877203)
 * [CS20 @ Stanford: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 * [Intro to TensorFlow for Deep Learning | Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 

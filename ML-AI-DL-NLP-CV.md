@@ -67,6 +67,7 @@
 
 * [Neural networks and deep learning- Michael Nielson](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Deep Learning - Ian Goodfellow](http://www.deeplearningbook.org/)
+* [Artificial Intelligence: A Modern Approach - Norvig & Russell](http://aima.cs.berkeley.edu)
 
 ### Courses on DL
 

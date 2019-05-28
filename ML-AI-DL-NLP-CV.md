@@ -101,7 +101,16 @@
 
 ## Reinforcement Learning
 
-* [CS234: Reinforcement Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+### Books on RL
+
+* [Reinforcement Learning: An Introduction, Sutton and Barto](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
+* Reinforcement Learning: State-of-the-Art, Marco Wiering and Martijn van Otterlo, Eds
+
+### Courses on RL
+
+* [CS234 by Emma Brunskill @ Stanford](http://web.stanford.edu/class/cs234/index.html)
+  * [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+* [RL by David Silver @ UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 
 ## Big Data
 

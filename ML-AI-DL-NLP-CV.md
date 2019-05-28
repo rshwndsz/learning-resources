@@ -37,8 +37,8 @@
 * Statistical Learning
   * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
   * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
-  * [Introduction to Statistical Learning Video Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
-  * [Py Notebooks for statlearning@stanford](https://github.com/sujitpal/statlearning-notebooks)
+  * [Introduction to Statistical Learning - Video Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
+  * [Py Notebooks for the course](https://github.com/sujitpal/statlearning-notebooks)
 * [Statistics - MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## Intro to ML
@@ -53,13 +53,11 @@
 ### Courses on Intro to ML
 
 * CS229 by Andrew Ng @ Stanford
-  * [Lecture Videos - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) :notes:
+  * [Lecture Videos](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) :notes:
   * [Notes by Andrew Ng](http://cs229.stanford.edu/notes/) :notes:
   * Psets [[1]](http://github.com/ccombier/CS229/blob/master/Problem1/ps1.pdf) [[2]](http://github.com/ccombier/CS229/blob/master/Problem2/ps2.pdf) [[3]](http://github.com/ccombier/CS229/blob/master/Problem3/ps3.pdf) [[4]](http://github.com/ccombier/CS229/blob/master/Problem4/ps4.pdf)
   * [Lecture Notes by Tyler Neylon](http://tylerneylon.com/notes/cs229/cs229.pdf) :notes:
-  * [Lecture Notes on HoleHouse](http://www.holehouse.org/mlclass/)
   * [Most Recent Course Notes & Syllabus](http://cs229.stanford.edu/syllabus.html)
-  * [Cheatsheet by Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 * [ML by mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
 
@@ -77,17 +75,6 @@
 * [CSC321 - Intro to Neural Networks & ML by Geoffrey Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
 * [Deep Learning @ NYU](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
 
-## Reinforcement Learning
-
-* [CS234: Reinforcement Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-
-## NLP
-
-* [Deep NLP Course @ Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
-* [CS224n @ Stanford (Winter 2019) with PyTorch](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-* [CS224n @ Stanford (Winter 2017) with Tensorflow](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-* [NLP with Jurafsky & Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
-
 ## Computer Vision
 
 ### Books on CV
@@ -103,9 +90,17 @@
 * [CS231n @ Stanford (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) :notes:
   * [Detailed Syllabus](http://cs231n.stanford.edu/syllabus.html)
   * [Course Notes](http://cs231n.github.io/)
-* [CS280 @ Berkeley](https://people.eecs.berkeley.edu/~trevor/CS280.html)
-* [6.869 @ MIT](http://6.869.csail.mit.edu/fa18/materials.html)
-* [CSCI 1430 @ Brown](http://cs.brown.edu/courses/cs143/)
+
+## NLP
+
+* [Deep NLP Course @ Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [CS224n @ Stanford (Winter 2019) with PyTorch](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [CS224n @ Stanford (Winter 2017) with Tensorflow](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [NLP with Jurafsky & Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
+
+## Reinforcement Learning
+
+* [CS234: Reinforcement Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 ## Big Data
 
@@ -118,16 +113,13 @@
 
 ## Blogs
 
-* [Google AI/Education](https://ai.google/education)
-* [Geoffrey Hinton's Page](http://www.cs.toronto.edu/~hinton/)
 * [Home - colah’s blog](http://colah.github.io/)
 * [distill.pub - Blog](https://distill.pub/)
+* [Google AI/Education](https://ai.google/education)
 * [Sebastian Ruder’s Blog](http://ruder.io/)
 * [John Langford's Blog](http://hunch.net/?page_id=122)
+* [Geoffrey Hinton's Page](http://www.cs.toronto.edu/~hinton/)
 
 ## Resource Lists
 
 * [Awesome Courses by prakhar1989](https://github.com/prakhar1989/awesome-courses)
-* [The blunt guide to Mathematically rigorous ML - Medium](https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b)
-* [Best resources I used to teach myself machine learning - Medium](https://medium.freecodecamp.org/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167)
-* [What are some good resources to learn about optimization? - Quora](https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization/answer/Alex-Kamil)

@@ -5,32 +5,32 @@
 ### General
 
 * Mathematics for Machine Learning by Deisenroth, Faisal, Ong
-* [Matrix Methods in Data Science, Signal Processing, Machine Learning by Gilbert Strang (Spring 2018) - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+* [Matrix Methods in DS, SP, ML by Gilbert Strang @MIT (Spring 2018)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
 ### Linear Algebra
 
-* [Linear Algebra - MIT OCW](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
-* [EE263 Introduction to Linear Dynamical Systems @ Stanford](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
-* [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Linear Algebra @ MIT](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+* [EE263: Introduction to Linear Dynamical Systems @Stanford](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+* [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### Probability
 
-* [STAT 110 Probability @ Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-* [RES 6.012 Introduction to Probability @ MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+* [STAT 110: Probability @Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [RES 6.012: Introduction to Probability @MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 * [Probability Primer by mathematicalmonk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
 * [Probabilistic System Analysis & Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 
 ### Calculus
 
-* [Single Variable Calculus - MIT OCW SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
-* [Multivariable calculus - Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
-* [Multivariable Calculus - MIT OCW](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+* [Single Variable Calculus @MIT](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+* [Multivariable calculus @Khan_Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
+* [Multivariable Calculus @MIT](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 
 ### Optimization
 
 * Convex Optimization by Boyd & Vandenberghe
-* [10-725 by Ryan Tibshirani - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)
-* [Convex Optimisation by Boyd](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
+* [10-725 by Ryan Tibshirani @CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)
+* [Convex Optimisation by Boyd @Stanford](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 
 ### Statistics
 
@@ -39,7 +39,7 @@
   * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
   * [Introduction to Statistical Learning - Video Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
   * [Py Notebooks for the course](https://github.com/sujitpal/statlearning-notebooks)
-* [Statistics - MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+* [Statistics @ MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## Intro to ML
 
@@ -52,7 +52,7 @@
 
 ### Courses on Intro to ML
 
-* CS229 by Andrew Ng @ Stanford
+* CS229 by Andrew Ng @Stanford
   * [Lecture Videos](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) :notes:
   * [Notes by Andrew Ng](http://cs229.stanford.edu/notes/) :notes:
   * Psets [[1]](http://github.com/ccombier/CS229/blob/master/Problem1/ps1.pdf) [[2]](http://github.com/ccombier/CS229/blob/master/Problem2/ps2.pdf) [[3]](http://github.com/ccombier/CS229/blob/master/Problem3/ps3.pdf) [[4]](http://github.com/ccombier/CS229/blob/master/Problem4/ps4.pdf)
@@ -65,16 +65,17 @@
 
 ### Books on DL
 
-* [Neural networks and deep learning- Michael Nielson](http://neuralnetworksanddeeplearning.com/chap1.html)
-* [Deep Learning - Ian Goodfellow](http://www.deeplearningbook.org/)
-* [Artificial Intelligence: A Modern Approach - Norvig & Russell](http://aima.cs.berkeley.edu)
+* [Neural networks and deep learning by Michael Nielson](http://neuralnetworksanddeeplearning.com/chap1.html)
+* [Deep Learning by Ian Goodfellow](http://www.deeplearningbook.org/)
+* [Artificial Intelligence: A Modern Approach by Norvig & Russell](http://aima.cs.berkeley.edu)
 
 ### Courses on DL
 
-* [CS230: Deep Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-* [Deep Learning by Andrew Ng @ Coursera](https://www.coursera.org/specializations/deep-learning)
-* [CSC321 - Intro to Neural Networks & ML by Geoffrey Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
-* [Deep Learning @ NYU](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
+* CS230: Deep Learning @Stanford
+  * [Lecture Videos (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+* [Deep Learning by Andrew Ng @Coursera](https://www.coursera.org/specializations/deep-learning)
+* [CSC321: Intro to Neural Networks & ML by Geoffrey Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
+* [Deep Learning by Yann LeCun @NYU](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
 
 ## Computer Vision
 
@@ -88,38 +89,40 @@
 
 ### Courses on CV
 
-* [CS231n @ Stanford (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) :notes:
+* CS231n @Stanford
+  * [Lecture Videos (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) :notes:
   * [Detailed Syllabus](http://cs231n.stanford.edu/syllabus.html)
   * [Course Notes](http://cs231n.github.io/)
 
 ## NLP
 
-* [Deep NLP Course @ Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
-* [CS224n @ Stanford (Winter 2019) with PyTorch](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-* [CS224n @ Stanford (Winter 2017) with Tensorflow](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-* [NLP with Jurafsky & Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
+* [Deep NLP Course @Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* CS224n @ Stanford
+  * [Lecture Videos:with PyTorch (Winter 2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+  * [Lecture Videos:with Tensorflow (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [NLP by Jurafsky & Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
 
 ## Reinforcement Learning
 
 ### Books on RL
 
-* [Reinforcement Learning: An Introduction, Sutton and Barto](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
-* Reinforcement Learning: State-of-the-Art, Marco Wiering and Martijn van Otterlo, Eds
+* [Reinforcement Learning: An Introduction by Sutton & Barto](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
+* Reinforcement Learning: State-of-the-Art by Marco Wiering & Martijn van Otterlo
 
 ### Courses on RL
 
-* [CS234 by Emma Brunskill @ Stanford](http://web.stanford.edu/class/cs234/index.html)
+* [CS234 by Emma Brunskill @Stanford](http://web.stanford.edu/class/cs234/index.html)
   * [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-* [RL by David Silver @ UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+* [RL by David Silver @UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 
 ## Big Data
 
 * Mining Massive Data Sets
   * [CS246](https://web.stanford.edu/class/cs246/) [[Lecture Videos]](http://snap.stanford.edu/class/cs246-videos-2019/)
   * [CS246h](http://web.stanford.edu/class/cs246h/)
-* [6.581 Advanced Data Structures @ MIT](http://courses.csail.mit.edu/6.851/fall17/)
-* [CS229r Algorithms for Big Data @ Harvard](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)
-* [Info 290 Analysing Big Data with Twitter @ Berkeley](https://www.ischool.berkeley.edu/courses/info/290/abdt)
+* [6.581: Advanced Data Structures @MIT](http://courses.csail.mit.edu/6.851/fall17/)
+* [CS229r: Algorithms for Big Data @Harvard](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)
+* [Info290: Analysing Big Data with Twitter @Berkeley](https://www.ischool.berkeley.edu/courses/info/290/abdt)
 
 ## Blogs
 

@@ -34,12 +34,12 @@
 
 ### Statistics
 
+* [18.650: Statistics for Applications @ MIT (Fall 2016) :movie_camera:](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 * Statistical Learning
-  * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-  * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
-  * [Introduction to Statistical Learning - Video Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
+  * [Introduction to Statistical Learning :books:](http://www-bcf.usc.edu/~gareth/ISL/)
+  * [Elements of Statistical Learning :books:](https://web.stanford.edu/~hastie/ElemStatLearn//)
+  * [Introduction to Statistical Learning :movie_camera:](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
   * [Py Notebooks for the course](https://github.com/sujitpal/statlearning-notebooks)
-* [Statistics @ MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## Intro to ML
 

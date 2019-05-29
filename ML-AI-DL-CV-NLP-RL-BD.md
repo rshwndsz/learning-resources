@@ -61,6 +61,22 @@
 * [ML by mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
 
+## Practical ML
+
+### Tensorflow
+
+* [Tensorflow tutorial @ Scipy Japan 2019](https://www.youtube.com/watch?v=Yyv-ng0_OTU&linkId=67877203)
+* [CS20 @ Stanford: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
+* [Intro to TensorFlow for Deep Learning | Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+### Keras
+
+* [Keras - deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+
+### Pytorch
+
+* [Pytorch - deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+
 ## Deep Learning & Neural Networks
 
 ### Books on DL

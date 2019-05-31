@@ -59,6 +59,7 @@
   * [Unsupervised Feature Learning & DL by Andrew Ng - Tutorial](http://ufldl.stanford.edu/tutorial/)
   * [Lecture Notes by Tyler Neylon](http://tylerneylon.com/notes/cs229/cs229.pdf) :notes:
   * [Slides, Discussions, Python Notebooks from the Course](http://cs229.stanford.edu/syllabus.html)
+* [Videos by Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists)
 * [ML by mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
 
@@ -89,10 +90,27 @@
 ### Courses on DL
 
 * CS230: Deep Learning @Stanford
+  * [Deep Learning by Andrew Ng @Coursera](https://www.coursera.org/specializations/deep-learning)
   * [Lecture Videos (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-* [Deep Learning by Andrew Ng @Coursera](https://www.coursera.org/specializations/deep-learning)
 * [CSC321: Intro to Neural Networks & ML by Geoffrey Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
 * [Deep Learning by Yann LeCun @NYU](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
+
+## Reinforcement Learning
+
+### Books on RL
+
+* [Reinforcement Learning: An Introduction by Sutton & Barto](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
+* Reinforcement Learning: State-of-the-Art by Marco Wiering & Martijn van Otterlo
+
+### Courses on RL
+
+* [CS234 by Emma Brunskill @Stanford](http://web.stanford.edu/class/cs234/index.html)
+  * [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+* [RL by David Silver @UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+
+## AI
+
+* [CS221: Artificial Intelligence: Principles & Techniques @Stanford](http://web.stanford.edu/class/cs221/)
 
 ## Computer Vision
 
@@ -118,19 +136,6 @@
   * [Lecture Videos:with PyTorch (Winter 2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   * [Lecture Videos:with Tensorflow (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [NLP by Jurafsky & Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
-
-## Reinforcement Learning
-
-### Books on RL
-
-* [Reinforcement Learning: An Introduction by Sutton & Barto](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
-* Reinforcement Learning: State-of-the-Art by Marco Wiering & Martijn van Otterlo
-
-### Courses on RL
-
-* [CS234 by Emma Brunskill @Stanford](http://web.stanford.edu/class/cs234/index.html)
-  * [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-* [RL by David Silver @UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 
 ## Big Data
 

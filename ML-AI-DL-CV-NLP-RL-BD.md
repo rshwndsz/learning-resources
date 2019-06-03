@@ -62,7 +62,7 @@
 * Introduction to ML @University of Toronto
   * [Lecture Videos (Winter 2019)](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iS9XqKuApPE1TSlnZblFHF)
 * 6.034: Artificial Intelligence @MIT
-  * [Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) | [Recitations](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/) | [Tutorials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/)
+  * [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) | [Tutorials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/)
   * [Assignments](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/assignments/) | [Exams](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/exams/)
 * [Videos by Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists)
 * [ML by mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)

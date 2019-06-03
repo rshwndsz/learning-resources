@@ -87,6 +87,7 @@
 
 * [Neural networks and deep learning by Michael Nielson](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Deep Learning by Ian Goodfellow](http://www.deeplearningbook.org/)
+* [Information Theory, Inference, Learning models by David McKay](http://www.inference.org.uk/mackay/itila/book.html)
 * [Artificial Intelligence: A Modern Approach by Norvig & Russell](http://aima.cs.berkeley.edu)
 
 ### Courses on DL
@@ -95,6 +96,8 @@
   * [Lecture Videos](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
   * [2018 Website: Notes, Tutorials, Slides, ipynb](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
   * [2014 Website: OG](http://www.cs.toronto.edu/~tijmen/csc321/)
+* Neural Networks by Hugo Larochelle
+  * [Readings, Videos](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 * CS230: Deep Learning @Stanford
   * Coursera Videos on Youtube
     * [Course 1](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)

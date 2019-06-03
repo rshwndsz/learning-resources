@@ -59,6 +59,8 @@
   * [Unsupervised Feature Learning & DL by Andrew Ng - Tutorial](http://ufldl.stanford.edu/tutorial/)
   * [Lecture Notes by Tyler Neylon](http://tylerneylon.com/notes/cs229/cs229.pdf) :notes:
   * [Slides, Discussions, Python Notebooks from the Course](http://cs229.stanford.edu/syllabus.html)
+* Introduction to ML @University of Toronto
+  * [Lecture Videos (Winter 2019)](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iS9XqKuApPE1TSlnZblFHF)
 * [Videos by Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists)
 * [ML by mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
@@ -89,10 +91,13 @@
 
 ### Courses on DL
 
+* CSC321: Intro to Neural Networks & ML by Geoffrey Hinton
+  * [Lecture Videos](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+  * [2018 Website: Notes, Tutorials, Slides, ipynb](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
+  * [2014 Website: OG](http://www.cs.toronto.edu/~tijmen/csc321/)
 * CS230: Deep Learning @Stanford
-  * [Deep Learning by Andrew Ng @Coursera](https://www.coursera.org/specializations/deep-learning)
+  * [Deep Learning by Andrew Ng @Coursera :moneybag:](https://www.coursera.org/specializations/deep-learning)
   * [Lecture Videos (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-* [CSC321: Intro to Neural Networks & ML by Geoffrey Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
 * [Deep Learning by Yann LeCun @NYU](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
 
 ## Reinforcement Learning

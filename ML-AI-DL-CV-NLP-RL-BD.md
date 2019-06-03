@@ -96,7 +96,12 @@
   * [2018 Website: Notes, Tutorials, Slides, ipynb](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
   * [2014 Website: OG](http://www.cs.toronto.edu/~tijmen/csc321/)
 * CS230: Deep Learning @Stanford
-  * [Deep Learning by Andrew Ng @Coursera :moneybag:](https://www.coursera.org/specializations/deep-learning)
+  * Coursera Videos on Youtube
+    * [Course 1](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+    * [Course 2](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+    * [Course 3](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
+    * [Course 4](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+    * [Course 5](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
   * [Lecture Videos (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 * [Deep Learning by Yann LeCun @NYU](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
 

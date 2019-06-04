@@ -2,29 +2,23 @@
 
 ## Math for ML
 
-### General
-
-* Mathematics for Machine Learning by Deisenroth, Faisal, Ong
-* [Matrix Methods in DS, SP, ML by Gilbert Strang @MIT (Spring 2018)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
-
 ### Linear Algebra
 
-* [Linear Algebra @ MIT](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
-* [EE263: Introduction to Linear Dynamical Systems @Stanford](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+* [18.06SC: Linear Algebra @MIT (Fall 2011)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 * [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [EE263: Introduction to Linear Dynamical Systems @Stanford](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 
 ### Probability
 
 * [STAT 110: Probability @Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [6.041: Probabilistic System Analysis & Applied Probability @MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 * [RES 6.012: Introduction to Probability @MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-* [Probability Primer by mathematicalmonk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
-* [Probabilistic System Analysis & Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 
 ### Calculus
 
-* [Single Variable Calculus @MIT](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
-* [Multivariable calculus @Khan_Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
-* [Multivariable Calculus @MIT](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+* [18.01: Single Variable Calculus @MIT (Fall 2006)](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
+* [18.02: Multivariable Calculus @MIT (Fall 2007)](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+* [Multivariable calculus @Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 
 ### Optimization
 
@@ -34,21 +28,21 @@
 
 ### Statistics
 
-* [18.650: Statistics for Applications @ MIT (Fall 2016) :movie_camera:](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+* [18.650: Statistics for Applications @MIT (Fall 2016)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 * Statistical Learning
-  * [Introduction to Statistical Learning :books:](http://www-bcf.usc.edu/~gareth/ISL/)
-  * [Elements of Statistical Learning :books:](https://web.stanford.edu/~hastie/ElemStatLearn//)
-  * [Introduction to Statistical Learning :movie_camera:](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
+  * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+  * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
+  * [Introduction to Statistical Learning](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
   * [Py Notebooks for the course](https://github.com/sujitpal/statlearning-notebooks)
 
 ## Intro to ML
 
 ### Books on Intro to ML
 
-* [A course in Machine Learning by Hal Daumé III](http://ciml.info/)
-* Introduction to ML by Smola
+* Mathematics for Machine Learning by Deisenroth, Faisal, Ong
 * Pattern Recognition & Machine Learning by Bishop
-* Learning with Kernels by Smola & Schölkopf for SVMs
+* Introduction to ML by Smola
+* Learning with Kernels by Smola & Schölkopf for SVMs :moneybag:
 
 ### Courses on Intro to ML
 
@@ -57,32 +51,29 @@
   * [Notes by Andrew Ng](http://cs229.stanford.edu/notes/) :notes:
   * Psets [[1]](http://github.com/ccombier/CS229/blob/master/Problem1/ps1.pdf) [[2]](http://github.com/ccombier/CS229/blob/master/Problem2/ps2.pdf) [[3]](http://github.com/ccombier/CS229/blob/master/Problem3/ps3.pdf) [[4]](http://github.com/ccombier/CS229/blob/master/Problem4/ps4.pdf)
   * [Unsupervised Feature Learning & DL by Andrew Ng - Tutorial](http://ufldl.stanford.edu/tutorial/)
-  * [Lecture Notes by Tyler Neylon](http://tylerneylon.com/notes/cs229/cs229.pdf) :notes:
-  * [Slides, Discussions, Python Notebooks from the Course](http://cs229.stanford.edu/syllabus.html)
+  * [Slides, Discussions, Python Notebooks for CS229](http://cs229.stanford.edu/syllabus.html)
 * Introduction to ML @University of Toronto
   * [Lecture Videos (Winter 2019)](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iS9XqKuApPE1TSlnZblFHF)
 * 6.034: Artificial Intelligence @MIT
   * [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) | [Tutorials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/)
   * [Assignments](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/assignments/) | [Exams](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/exams/)
-* [Videos by Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists)
-* [ML by mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
 
 ## Practical ML
 
 ### Tensorflow
 
-* [Tensorflow tutorial @ Scipy Japan 2019](https://www.youtube.com/watch?v=Yyv-ng0_OTU&linkId=67877203)
-* [CS20 @ Stanford: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
-* [Intro to TensorFlow for Deep Learning | Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+* [Tensorflow tutorial @Scipy Japan 2019](https://www.youtube.com/watch?v=Yyv-ng0_OTU&linkId=67877203)
+* [CS20: Tensorflow for Deep Learning Research @Stanford](https://web.stanford.edu/class/cs20si/syllabus.html)
+* [Intro to TensorFlow for Deep Learning @Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ### Keras
 
-* [Keras - deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+* [Keras by deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 
 ### Pytorch
 
-* [Pytorch - deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+* [Pytorch by deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 
 ## Deep Learning & Neural Networks
 
@@ -91,14 +82,9 @@
 * [Neural networks and deep learning by Michael Nielson](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Deep Learning by Ian Goodfellow](http://www.deeplearningbook.org/)
 * [Information Theory, Inference, Learning models by David McKay](http://www.inference.org.uk/mackay/itila/book.html)
-* [Artificial Intelligence: A Modern Approach by Norvig & Russell](http://aima.cs.berkeley.edu)
 
 ### Courses on DL
 
-* CSC321: Intro to Neural Networks & ML by Geoffrey Hinton
-  * [Lecture Videos](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-  * [2018 Website: Notes, Tutorials, Slides, ipynb](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
-  * [2014 Website: OG](http://www.cs.toronto.edu/~tijmen/csc321/)
 * Neural Networks by Hugo Larochelle
   * [Readings, Videos](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 * CS230: Deep Learning @Stanford
@@ -109,22 +95,30 @@
     * [Course 4](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
     * [Course 5](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
   * [Lecture Videos (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-* [Deep Learning by Yann LeCun @NYU](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
+* CSC321: Intro to Neural Networks & ML by Geoffrey Hinton
+  * [Lecture Videos](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+  * [Notes, Tutorials, Slides, ipynb](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 
 ## Reinforcement Learning
 
 ### Books on RL
 
 * [Reinforcement Learning: An Introduction by Sutton & Barto](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
-* Reinforcement Learning: State-of-the-Art by Marco Wiering & Martijn van Otterlo
+* Reinforcement Learning: State-of-the-Art by Marco Wiering & Martijn van Otterlo :moneybag:
 
 ### Courses on RL
 
-* [CS234 by Emma Brunskill @Stanford](http://web.stanford.edu/class/cs234/index.html)
+* [CS234 by Emma Brunskill @Stanford](http://web.stanford.edu/class/cs234/index.html) :star:
   * [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * [RL by David Silver @UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 
 ## AI
+
+### Books on AI
+
+* [Artificial Intelligence: A Modern Approach by Norvig & Russell](http://aima.cs.berkeley.edu)
+
+### Courses on AI
 
 * [CS221: Artificial Intelligence: Principles & Techniques @Stanford](http://web.stanford.edu/class/cs221/)
 
@@ -140,14 +134,14 @@
 
 ### Courses on CV
 
-* CS231n @Stanford
+* CS231n @Stanford :star:
   * [Lecture Videos (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) :notes:
   * [Detailed Syllabus](http://cs231n.stanford.edu/syllabus.html)
   * [Course Notes](http://cs231n.github.io/)
 
 ## NLP
 
-* [Deep NLP Course @Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [Deep NLP Course @Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures) :star:
 * CS224n @ Stanford
   * [Lecture Videos:with PyTorch (Winter 2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   * [Lecture Videos:with Tensorflow (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)

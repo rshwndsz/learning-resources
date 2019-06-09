@@ -27,3 +27,8 @@
 ### Pandas
 
 * [Data Analyis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+
+## API CLIs
+
+* [Google Docs API](https://developers.google.com/docs/api/quickstart/python)
+* [Python Reddit API Wrapper (PRAW)](https://praw.readthedocs.io/en/latest/getting_started/quick_start.html)

@@ -77,7 +77,15 @@
 
 ## Probabilistic Graphical Models
 
-* [Daphne Koller @Stanford](https://www.youtube.com/playlist?list=PLQl7D2xuMMNq5lj52YpCjGvgOrjvX4h5G)
+### Books on PGMs
+
+* Probablistic Graphical Models by Koller & Friedman
+
+### Courses on PGMs
+
+* Probabilistic Graphical Models by Daphne Koller
+  * [@Coursera 💰](https://www.coursera.org/specializations/probabilistic-graphical-models?action=enroll)
+  * [@Youtube](https://www.youtube.com/playlist?list=PLQl7D2xuMMNq5lj52YpCjGvgOrjvX4h5G)
 * [Chris Bishop @Tubingen](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3)
 
 ## Deep Learning & Neural Networks

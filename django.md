@@ -40,6 +40,8 @@
 
 ### AWS
 
+* [Dive into AWS - codingforentrepreneurs](https://www.codingforentrepreneurs.com/courses/aws)
+
 #### S3
 
 * [How to setup amazon S3 in a django project](https://simpleisbetterthancomplex.com/tutorial/2017/08/01/how-to-setup-amazon-s3-in-a-django-project.html)

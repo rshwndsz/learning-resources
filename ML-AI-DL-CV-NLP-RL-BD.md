@@ -61,11 +61,14 @@
 
 ## Practical ML
 
+### Books on Practical ML
+
+* Hands on Machine Learning with Tensorflow & scikit-learn by Aurelion Gurien
+
 ### Tensorflow
 
 * [Tensorflow tutorial @Scipy Japan 2019](https://www.youtube.com/watch?v=Yyv-ng0_OTU&linkId=67877203)
 * [CS20: Tensorflow for Deep Learning Research @Stanford](https://web.stanford.edu/class/cs20si/syllabus.html)
-* [Intro to TensorFlow for Deep Learning @Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ### Keras
 

@@ -17,6 +17,7 @@
 ### Tutorials
 
 * [CS50 Mobile App development using React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
+* [Airbnb UI Clone in Expo/react-native](https://www.youtube.com/playlist?list=PLy9JCsy2u97kGf2yZR2opUAAqN1Z6SA-B)
 * [Building an Instagram Clone](https://www.youtube.com/watch?v=o7eB8wG20iw)
 
 ### Projects using React Native

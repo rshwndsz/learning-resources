@@ -114,6 +114,7 @@
 * [CS234 by Emma Brunskill @Stanford](http://web.stanford.edu/class/cs234/index.html) :star:
   * [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * [RL by David Silver @UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+* [CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
 ## AI
 

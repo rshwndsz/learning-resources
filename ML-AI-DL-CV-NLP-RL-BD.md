@@ -47,8 +47,8 @@
 ### Courses on Intro to ML
 
 * CS229 by Andrew Ng @Stanford
-  * [Lecture Videos](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) :notes:
-  * [Notes by Andrew Ng](http://cs229.stanford.edu/notes/) :notes:
+  * [Lecture Videos](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) 
+  * [Notes by Andrew Ng](http://cs229.stanford.edu/notes/)
   * Psets [[1]](http://github.com/ccombier/CS229/blob/master/Problem1/ps1.pdf) [[2]](http://github.com/ccombier/CS229/blob/master/Problem2/ps2.pdf) [[3]](http://github.com/ccombier/CS229/blob/master/Problem3/ps3.pdf) [[4]](http://github.com/ccombier/CS229/blob/master/Problem4/ps4.pdf)
   * [Unsupervised Feature Learning & DL by Andrew Ng - Tutorial](http://ufldl.stanford.edu/tutorial/)
   * [Slides, Discussions, Python Notebooks for CS229](http://cs229.stanford.edu/syllabus.html)
@@ -58,25 +58,6 @@
   * [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) | [Tutorials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/)
   * [Assignments](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/assignments/) | [Exams](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/exams/)
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
-
-## Practical ML
-
-### Books on Practical ML
-
-* Hands on Machine Learning with Tensorflow & scikit-learn by Aurelion Gurien
-
-### Tensorflow
-
-* [Tensorflow tutorial @Scipy Japan 2019](https://www.youtube.com/watch?v=Yyv-ng0_OTU&linkId=67877203)
-* [CS20: Tensorflow for Deep Learning Research @Stanford](https://web.stanford.edu/class/cs20si/syllabus.html)
-
-### Keras
-
-* [Keras by deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
-
-### Pytorch
-
-* [Pytorch by deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 
 ## Deep Learning & Neural Networks
 
@@ -111,7 +92,7 @@
 
 ### Courses on RL
 
-* [CS234 by Emma Brunskill @Stanford](http://web.stanford.edu/class/cs234/index.html) :star:
+* [CS234 by Emma Brunskill @Stanford](http://web.stanford.edu/class/cs234/index.html)
   * [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * [RL by David Silver @UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 * [CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
@@ -139,13 +120,13 @@
 ### Courses on CV
 
 * CS231n @Stanford :star:
-  * [Lecture Videos (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) :notes:
+  * [Lecture Videos (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   * [Detailed Syllabus](http://cs231n.stanford.edu/syllabus.html)
   * [Course Notes](http://cs231n.github.io/)
 
 ## NLP
 
-* [Deep NLP Course @Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures) :star:
+* [Deep NLP Course @Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * CS224n @ Stanford
   * [Lecture Videos:with PyTorch (Winter 2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   * [Lecture Videos:with Tensorflow (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)

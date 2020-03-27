@@ -1,5 +1,8 @@
 # Data Structures & Algorithms
 
+## Books for OOP
+* Design Patterns: Elements of Reusable Object-Oriented Software (GoF)
+
 ## Books for DSA
 
 * Algorithm Design Manual by Skiena

@@ -2,9 +2,11 @@
 
 Stuff documented:
 
-* DSA
+* Neuroscience
+* C++
+* Robotics
+* Drawing
 * ML-AI-DL-CV-NLP-RL-BD
-* Image Processing
-* Computer Science
-* Python
-* django
+* DSA
+* Python + django
+* React

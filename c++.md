@@ -1,7 +1,7 @@
 # C++
 
 ## Music
-* ["Most epic music ever" by HDSounDI](https://www.youtube.com/playlist?list=PL572172884C1FC772)
+* [Two steps from hell - Apple Music](https://music.apple.com/in/artist/two-steps-from-hell/372716646)
 
 ## Books
 * C++ Primer by Stanley B. Lippman, Josée Lajoie, Barbara E. Moo (5th edition - C++11)
@@ -10,3 +10,5 @@
 ## Resources
 
 * [learncpp.com](https://learncpp.com)
+  * [Active recall questions - Notion](https://www.notion.so/rshwndsz/C-e0d769d32af54f0284483b9c17660549)
+* [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)

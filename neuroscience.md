@@ -1,7 +1,8 @@
-# Unlocking the brain
+# Neuroscience
 
-## Getting started
+* Principles of Neural Science - Kandel et.al
 
-* [What should I do to get started with computational neuroscience? --
-    Answered by Konrad Koerding](https://www.quora.com/What-should-I-do-to-get-started-with-computational-neuroscience)
+## Math for Neuroscience
 
+* [NEURL-GA.2201 @ NYU - Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/~eero/math-tools/)
+* [MathClub by JaneliaML](https://github.com/JaneliaMLCourse/MathClub/blob/master/README.md)

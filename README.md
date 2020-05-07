@@ -6,7 +6,6 @@ Stuff documented:
 * C++
 * Robotics
 * Drawing
-* ML-AI-DL-CV-NLP-RL-BD
+* ML-AI-DL-CV-NLP-RL-BD with Python, PyTorch
 * DSA
-* Python + django
-* React
+* WebDev - Django + React

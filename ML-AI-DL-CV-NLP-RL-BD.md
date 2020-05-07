@@ -60,6 +60,26 @@
   * [Assignments](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/assignments/) | [Exams](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/exams/)
 * [ML Course by google developers](https://developers.google.com/machine-learning/crash-course/)
 
+## Python
+
+### The Language
+
+* Learning Python by Mark Lutz :star:
+* Fluent Python by Luciano Ramalho :star:
+* Programming Python by Mark Lutz
+* Python Cookbook by Beazley & Jones
+* Effective Python by Brett Slatkin
+* Python 3 Standard Library by Example
+
+### Libraries
+
+* Python for Data Analysis
+* Python Data Science Handbook
+* Scipy Lectures - [Scipy Lectures](https://scipy-lectures.org/)
+* Matplotlib - Mastering Matplotlib
+* Pandas - [Data Analyis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+
+
 ## PyTorch
 
 ### Tutorials for PyTorch

@@ -3,7 +3,7 @@
 ## Videos
 
 * [Drawabox](https://www.drawabox.com)
-  * [Scyllastew on YouTube](https://www.youtube.com/channel/UCv9kxwOInGXiZ5i42xs_ALw)
+* [Illustrator & Concept artist learning path - Watts Atelier of the arts](https://www.wattsatelier.com/illustrator-concept-artist-learning-path)
 * [Proko](https://www.proko.com/library/)
 
 ## Books

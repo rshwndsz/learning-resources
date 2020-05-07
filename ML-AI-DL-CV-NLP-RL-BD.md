@@ -212,6 +212,7 @@
 
 ## Blogs
 
+* [Lil'Log - Lilian Weng's Blog](https://lilianweng.github.io/lil-log/)
 * [Home - colah’s blog](http://colah.github.io/)
 * [distill.pub - Blog](https://distill.pub/)
 * [Google AI/Education](https://ai.google/education)

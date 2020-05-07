@@ -2,10 +2,10 @@
 
 ## The Language
 
-* Learning Python by Mark Lutz :white_check_mark:
-* Fluent Python by Luciano Ramalho :notes:
-* Programming Python by Mark Lutz :notes:
-* Python Cookbook by Beazley & Jones :notes:
+* Learning Python by Mark Lutz :star:
+* Fluent Python by Luciano Ramalho :star:
+* Programming Python by Mark Lutz
+* Python Cookbook by Beazley & Jones
 * Effective Python by Brett Slatkin
 * Python 3 Standard Library by Example
 

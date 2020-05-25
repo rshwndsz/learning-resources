@@ -1,31 +1,32 @@
 # Data Structures & Algorithms
 
 ## Books for OOP
-* Design Patterns: Elements of Reusable Object-Oriented Software (GoF)
+* Design Patterns: Elements of Reusable Object-Oriented Software (GoF) :lock:
+
+## Books for System Design
+* Head first design patterns by Eric Freeman :lock:
 
 ## Books for DSA
 
-* Algorithm Design Manual by Skiena
-* DSA in Python
-* CLRS
-* Cracking the Coding Interview
-* Competitive Programming by Steve & Felix Halim
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
-* The Art of Computer Programming
+* CLRS :lock:
+* [Open data structures (C++ version)](opendatastructures.org/ods-cpp.pdf)
+* Cracking the Coding Interview :lock:
+* Algorithm Design Manual by Skiena :lock:
+* DSA in Python :lock:
 
-Also look at [4 week study plan for an average googler](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri).
+* [4 week study plan for an average googler](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri).
 
-## Courses
+## Courses for DSA
 
-* [Princeton - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) :notes:
-* [Princeton - Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 * [MIT 6.006 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-* [Stanford CS106b - Programming Abstractions](https://www.youtube.com/playlist?list=PL68B1C461C46883FE)
-* [Berkeley CS61b - Data Structures](https://www.youtube.com/playlist?list=PLGEPPJVr9TfOt404VxZaQK-hLkcbCrTyP)
-* [Tim Roughgarden's Video Lectures](http://timroughgarden.org/videos.html)
+* [MIT 6.046J - Design and analysis of algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+* [MIT 6.581 - Advanced data structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+* [Harvad COMPSCI 224](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 
 ## Coding Sites
 
+* [Geeksforgeeks](https://geeksforgeeks.com)
 * [Leetcode](https://leetcode.com/)
 * [SPOJ's 250 classical problems](https://www.spoj.com/problems/classical/sort=-6,start=0)
 

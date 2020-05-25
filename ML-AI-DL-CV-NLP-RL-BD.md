@@ -75,10 +75,8 @@
 
 * Python for Data Analysis by Wes Mckinney :lock:
 * Python Data Science Handbook by Jake Vanderplass :lock:
-* Scipy Lectures - [Scipy Lectures](https://scipy-lectures.org/)
-* Matplotlib - Mastering Matplotlib :lock:
-* Pandas - [Data Analyis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
-
+* [Scipy Lectures](https://scipy-lectures.org/)
+* Mastering Matplotlib :lock:
 
 ## PyTorch
 

@@ -40,9 +40,9 @@
 
 ### Books on Intro to ML
 
-* Mathematics for Machine Learning by Deisenroth, Faisal, Ong
-* Pattern Recognition & Machine Learning by Bishop
-* Introduction to ML by Smola
+* [Mathematics for Machine Learning by Deisenroth, Faisal, Ong](https://github.com/mml-book/mml-book.github.io)
+* Pattern Recognition & Machine Learning by Bishop :lock:
+* Introduction to ML by Smola :lock:
 * Learning with Kernels by Smola & Schölkopf for SVMs :lock:
 
 ### Courses on Intro to ML
@@ -64,19 +64,19 @@
 
 ### The Language
 
-* Learning Python by Mark Lutz :star:
-* Fluent Python by Luciano Ramalho :star:
-* Programming Python by Mark Lutz
-* Python Cookbook by Beazley & Jones
-* Effective Python by Brett Slatkin
-* Python 3 Standard Library by Example
+* Learning Python by Mark Lutz :lock: :star:
+* Fluent Python by Luciano Ramalho :lock: :star:
+* Programming Python by Mark Lutz :lock:
+* Python Cookbook by Beazley & Jones :lock:
+* Effective Python by Brett Slatkin :lock:
+* Python 3 Standard Library by Example :lock:
 
 ### Libraries
 
-* Python for Data Analysis
-* Python Data Science Handbook
+* Python for Data Analysis by Wes Mckinney :lock:
+* Python Data Science Handbook by Jake Vanderplass :lock:
 * Scipy Lectures - [Scipy Lectures](https://scipy-lectures.org/)
-* Matplotlib - Mastering Matplotlib
+* Matplotlib - Mastering Matplotlib :lock:
 * Pandas - [Data Analyis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 
 
@@ -84,13 +84,9 @@
 
 ### Tutorials for PyTorch
 
+* [Deeplearning with PyTorch @ NYU (Spring 2020) by Alfredo Canziani](https://github.com/Atcold/pytorch-Deep-Learning)
 * [Official Tutorials](https://pytorch.org/tutorials/)
 * [Official Examples Repo](https://github.com/pytorch/examples)
-* [DeepLearning w/ PyTorch - Udacity](https://classroom.udacity.com/courses/ud188)
-* [PyTorch DeepLearning MiniCourse Repo](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
-* [DeepLearning w/ PyTorch - deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
-* [yunjey/pytorch-tutorial - GitHub](https://github.com/yunjey/pytorch-tutorial)
-* [Pytorch - Tutorialspoint](https://www.tutorialspoint.com/pytorch/index.htm)
 
 ### PyTorch in Kaggle
 
@@ -136,11 +132,11 @@
 ### Books on RL
 
 * [Reinforcement Learning: An Introduction by Sutton & Barto](http://incompleteideas.net/book/RLbook2018trimmed.pdf)
-* Reinforcement Learning: State-of-the-Art by Marco Wiering & Martijn van Otterlo :moneybag:
+* Reinforcement Learning: State-of-the-Art by Marco Wiering & Martijn van Otterlo :lock:
 
 ### Courses on RL
 
-* [CS234 by Emma Brunskill @ Stanford](http://web.stanford.edu/class/cs234/index.html)
+* [CS234 by Emma Brunskill @ Stanford](http://web.stanford.edu/class/cs234/index.html) :star:
   * [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * [RL by David Silver @ UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 * [CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
@@ -159,11 +155,11 @@
 
 ### Books on CV
 
-* Computer Vision: Algorithms and Applications - Richard Szeliski
+* Computer Vision: Algorithms and Applications - Richard Szeliski :lock:
 * Computer vision: A modern approach -  Forsyth and Ponce
 * Concise Computer Vision -  Reinhard Klette
 * Ballard and Brown’s Computer Vision Online
-* Multiple View Geometry in CV - Hartley and Zisserman
+* Multiple View Geometry in CV - Hartley and Zisserman :lock:
 
 ### Courses on CV
 
@@ -176,9 +172,9 @@
 
 #### Books on Image Processing
 
-* Digital Image Processing by Rafael C. Gonzalez & Richard E. Woods
-* Handbook of Image & Video Processing by Al Bovik
-* Biomedical Signal & Image Processin by Robert Splinter & Kayvan Najarian
+* Digital Image Processing by Rafael C. Gonzalez & Richard E. Woods :lock:
+* Handbook of Image & Video Processing by Al Bovik :lock:
+* Biomedical Signal & Image Processin by Robert Splinter & Kayvan Najarian :lock:
 
 #### Courses on Image Processing
 
@@ -189,7 +185,7 @@
 * [Intro to CV @ Udacity](https://www.udacity.com/course/introduction-to-computer-vision--ud810#)
 * [Machine Learning for Computer Vision by Dr. Rudolp Triebel @ TU München](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
 * [Intro to CV @ UCF (2014)](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
-* [Stanford EE368/CS232 - Digital Image Processing](https://web.stanford.edu/class/ee368/index.html) 🔒
+* [Stanford EE368/CS232 - Digital Image Processing](https://web.stanford.edu/class/ee368/index.html) :lock:
 * [nptel - Digital Image Processing by P.K Biswas](https://www.youtube.com/playlist?list=PL1F076D1A98071E24)
 
 

@@ -3,7 +3,6 @@
 ## Resources
 
 * [learncpp.com - C++11 to C++17 :star:](https://learncpp.com)
-  * [My active recall questions on Notion](https://www.notion.so/rshwndsz/C-e0d769d32af54f0284483b9c17660549)
 * [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
 
 ## Books

@@ -8,14 +8,10 @@
 
 ## Books for DSA
 
+* Cracking the Coding Interview
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
-* CLRS :lock:
 * [Open data structures (C++ version)](opendatastructures.org/ods-cpp.pdf)
-* Cracking the Coding Interview :lock:
-* Algorithm Design Manual by Skiena :lock:
-* DSA in Python :lock:
-
-* [4 week study plan for an average googler](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri).
+* CLRS
 
 ## Courses for DSA
 

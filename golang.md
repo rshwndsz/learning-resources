@@ -28,3 +28,5 @@
 * https://github.com/mattermost/mattermost-server
 * https://github.com/ribice/gorsk
 * https://github.com/knadh/dictmaker
+
+* https://github.com/ethereum/go-ethereum

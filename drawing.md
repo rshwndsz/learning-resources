@@ -12,7 +12,6 @@
 * [Successfull Drawing by Andrew loomis](https://beta.readng.co/book/the-successful-drawing-by-andrew-loomis-GCsNq)
 * [Drawing the head by Andrew Loomis](https://beta.readng.co/book/drawing-the-head-by-andrew-loomis-tMZbV)
 * [Drawing the head & hands by Andrew Loomis](https://beta.readng.co/book/drawing-the-head-hands-by-andrew-loomis-bqyzf)
-
 * Figure Drawing by Michael Hampton
 * Dynamic Anatomy by Bume Hogarth
 * Guide to life drawing by George Bridgman
@@ -25,7 +24,6 @@
 * Color & Light by James Gurney
 
 ### Manga
-
 * Manhwa Mania
 * Manga mania: Fantasy worlds
 * Manga mania: How to draw Japanese comics
@@ -34,7 +32,6 @@
 * Drawing cutting edge: Comics
 
 ## Videos
-
 * [Drawabox](https://www.drawabox.com)
 * [Illustrator & Concept artist learning path - Watts Atelier of the arts](https://www.wattsatelier.com/illustrator-concept-artist-learning-path)
 * [Proko](https://www.proko.com/library/)

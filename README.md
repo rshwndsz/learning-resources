@@ -1,11 +1,1 @@
-# Learning Resources
-
-Stuff documented:
-
-* Neuroscience
-* C++
-* Robotics
-* Drawing
-* ML-AI-DL-CV-NLP-RL-BD with Python, PyTorch
-* DSA
-* WebDev - Django + React
+A collection of the resources I use/am using/will use to learn concepts.

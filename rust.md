@@ -3,8 +3,11 @@
 ## Books
 
 - The Rust Programming Language, Steve Klabnik & Carol Nichols
+- The Cargo Book, Rust Team  
 - Learn Rust by Example, Rust Team  
 - Rustlings, Rust Team
+- Rust Reference, Rust Team  
+- Rust Nomicon, Rust Team  
 - Learning Rust with Entirely too many Linked Lists  
 - Rust in Action, Tim McNamara 2021  
 - Make a language with Rust, 2021  

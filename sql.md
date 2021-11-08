@@ -2,10 +2,10 @@
 
 ## Books
 - SQL in 10 minutes
-- SQL Server Queries by WiseOwl
-- SQL Server Programming by WiseOwl
+- The art of SQL, Stéphane Faroult
+- SQL Anti-patterns, Bill Karwin 2010  
+- SQL Cookbook, Anthony Molinaro & Robert de Graaf 2020  
+- Learning SQL: Generate, Manipulate and Retrieve data, Alan Beaulieu 2020
 - SQL Indexing & Tuning by use-the-index-luke.com
-- A Primer on SQL
-- SQL database programming
-- Learning SQL: Generate, Manipulate and Retrieve data
 - Mastering PostgreSQL 13
+- T-SQL fundamentals

@@ -3,6 +3,7 @@
 ## Books
 
 - The Rust Programming Language, Steve Klabnik & Carol Nichols
+- Rust for Rustaceans, Jon Gjengset 11/2021
 - The Cargo Book, Rust Team  
 - Learn Rust by Example, Rust Team  
 - Rustlings, Rust Team
@@ -30,6 +31,7 @@
 - [Type Driven API design in Rust, Will Crichton InfoQ 2021](https://www.youtube.com/watch?v=bnnacleqg6k)
 - [Embedding Rust in C/C++, Katharina, RustConf 2018](https://www.youtube.com/watch?v=x9acx2zgx4Q)
 - [Rust Out Your C by Carol Nichols, 2017](https://www.youtube.com/watch?v=SKGVItFlK3w)
+- [Jon Gjengset on YouTube](https://www.youtube.com/c/JonGjengset/playlists)
 
 ## Articles
 - [A half hour to learn rust, fasterthanli.me 2020](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)

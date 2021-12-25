@@ -1,39 +1,40 @@
 # Neuroscience
 
-## Books
+## General
 
-### General
+* Neuroscience: Exploring the Brain Bear, Connors & Paradiso 3e
+* The Cognitive Neurosciences, Gazzaniga 3e
+* Principles of Neural Science, Kandel, Schwartz & Jessell 4e
+* Principles of Neural Design, Sterling & Laughlin 1e
+* The vital question: Why life is the way it is, Nick Lane
 
-* Neuroscience: Exploring the Brain (Third Edition), Bear, Connors and Paradiso.
-* The Cognitive Neurosciences (Third Edition), Gazzaniga.
-* Principles of Neural Science (Fourth Edition), Kandel, Schwartz and Jessell
-* Principles of Neural Design (First Edition), Sterling & Laughlin
+## Vision
 
-### Computational Neuroscience
-
-* Theoretical Neuroscience by Dayan and Abbott
-* An Introductory Course in Computational Neuroscience by Paul Miller
-* Computational Cognitive Neuroscience by O'Reilly, Munakata, Frank, Hazy
-* [The Handbook of brain theory & neural networks by Michael Arbib](https://bit.ly/2XNqF8r)
-* [Probabilistic Models of cognition - Goodman, Tenenbaum @ GitHub](https://probmods.org/)
-* [Neuronal Dynamics - from single neurons to networks & models of cognition by Gerstner, Kistler et.al](https://neuronaldynamics.epfl.ch/online/index.html) [Videos](https://lcnwww.epfl.ch/gerstner/NeuronalDynamics-MOOCall.html)
-
-### Vision
-* Understanding Vision by Zhaoping Li
-* Computational Neuroscience of Vision, Rolls and Deco
+* Understanding Vision, Zhaoping Li
+* Computational Neuroscience of Vision, Rolls & Deco
 * Vision: A Computational Investigation into the Human Representation and Processing of Visual Information, David Marr
-* Seeing, Frisby and Stone
-* The New Visual Neurosciences, Werner and Chalupa
+* Seeing, Frisby & Stone
+* The New Visual Neurosciences, Werner & Chalupa
 
-### Memory
-* Memory Foundations and applications by Bennett L. Shwartz
-* In Search of Memory-The Emergence of a New Science of Mind by Eric Kandel
-* Spark by John J Ratey
-* Make it stick by Peter Brown et.al
-* Permanent present tense by Suzanne Corkin
-* Learning and memory by Howard Eichenbaum
-* Moonwalking with Einstein by Joshua Foer
-* The seven sins of memory-How the mind forgets by Daniel Schacter
+## Memory
+
+* Memory Foundations and applications,  Bennett L. Shwartz
+* In Search of Memory-The Emergence of a New Science of Mind,  Eric Kandel
+* Spark, John J Ratey
+* Make it stick, Peter Brown et.al
+* Permanent present tense, Suzanne Corkin
+* Learning and memory, Howard Eichenbaum
+* Moonwalking with Einstein, Joshua Foer
+* The seven sins of memory-How the mind forgets, Daniel Schacter
+
+## Computational Neuroscience
+
+* Theoretical Neuroscience, Dayan & Abbott
+* An Introductory Course in Computational Neuroscience,  Paul Miller
+* Computational Cognitive Neuroscience, Munakata, Frank, Hazy @ O'Reilly
+* [The Handbook of brain theory & neural networks, Michael Arbib](https://bit.ly/2XNqF8r)
+* [Probabilistic Models of cognition - Goodman, Tenenbaum @ GitHub](https://probmods.org/)
+* [Neuronal Dynamics - from single neurons to networks & models of cognition, Gerstner & Kistler et.al](https://neuronaldynamics.epfl.ch/online/index.html) [Videos](https://lcnwww.epfl.ch/gerstner/NeuronalDynamics-MOOCall.html)
 
 ## Courses
 
@@ -44,8 +45,8 @@
 
 ## Talks
 
-* [[WorldWideNeuro]]
-* [[CCN 2019]]
+* WorldWideNeuro
+* CCN 2019
 
 ## Curated lists
 
@@ -76,12 +77,9 @@
   * [Andy's brian book](https://www.andysbrainblog.com/andysbrainblog/2019/6/26/introducing-andys-brain-book)
 * [PySurfer](https://pysurfer.github.io)
 * [PyCortex](https://gallantlab.github.io/pycortex)
-
 * [BIDS & BIDS Apps](https://bids-apps.neuroimaging.io/apps/)
-
 * [NeuroSynth - Large scale automated synthesis of fMRI data](https://neurosynth.org/)
 * [fMRIprep - preprocessing pipeline](https://fmriprep.readthedocs.io/en/stable/)
-
 * [cbptools - Connectivity based parcellation tools](https://cbptools.readthedocs.io/en/latest/overview/workflow.html)
 * [BrainSpace - toolbox for macroscale gradients in neuroimaging and connectonomics datasets](https://www.nature.com/articles/s42003-020-0794-7)
 * [Rapidtide - Suite of python programs to perform rapid time delay analysis on FMRI](https://rapidtide.readthedocs.io/en/latest/)

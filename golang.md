@@ -1,7 +1,13 @@
 # Go
 
+## Quality Blogs
+- [Go best practices - six years in, Peter Bourgon 2016](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
+- [Organising Database Access in Go, Alex Edwards 2020](https://www.alexedwards.net/blog/organising-database-access)
+- [Revisiting context and http.Handler for Go 1.7, Joe Shaw 2016](https://www.joeshaw.org/revisiting-context-and-http-handler-for-go-17/)
+- [Channel Axioms, Dave Cheney 2014](https://dave.cheney.net/2014/03/19/channel-axioms)
+
 ## Code
-* https://github.com/thockin/go-build-template
+* ⭐️ https://github.com/thockin/go-build-template
 * https://github.com/mattermost/mattermost-server
 * https://github.com/ribice/gorsk
 * https://github.com/knadh/dictmaker
@@ -21,9 +27,7 @@
 * [Writing a compiler in Go by Thorsten Ball](https://compilerbook.com/)
 * [Go programming Blueprints, 2e by Mat Ryer](https://beta.readng.co/book/go-programming-blueprints-second-edition-by-mat-ryer-3GpT1)
 
-## Docs & Doc-Like
-- https://dave.cheney.net/2014/03/19/channel-axioms
-- https://www.practical-go-lessons.com/
+## Docs
 - https://tour.golang.org
 - https://golang.org/doc/tutorial/
 - https://golang.org/doc/faq
@@ -32,13 +36,9 @@
 - https://golang.org/doc/articles/wiki/
 - https://golang.org/doc/#articles
 - https://go101.org/article/unsafe.html 
+- https://github.com/golang/go/wiki/CodeReviewComments
+- https://www.practical-go-lessons.com/
 - https://github.com/a8m/golang-cheat-sheet
-
-## Articles
-* https://peter.bourgon.org/go-best-practices-2016/#repository-structure
-* https://github.com/golang/go/wiki/CodeReviewComments
-* https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
-* https://golang.org/doc/effective_go.html
 
 ## Talks
 * [GopherCon 2019: Mat Ryer - How I Write HTTP Web Services after Eight Years](https://www.youtube.com/watch?v=rWBSMsLG8po)

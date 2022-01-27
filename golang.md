@@ -18,14 +18,14 @@
 * https://github.com/peterzernia/lets-fork
 
 ## Books
-* [The Go Programming Language by Brian Kernighan, Alan Donovan](https://beta.readng.co/book/the-go-programming-language-by-brian-w-kernighan-y0Fdk)
-* [Mastering Go by Mihalis Tsoukalos](https://beta.readng.co/book/mastering-go-by-mihalis-tsoukalos-0JKtl)
-* [Go Design Pattern for Real-world projects by Mat Ryer, Vladimir Vivien, Mario Castro Contreras](https://beta.readng.co/book/go-by-mat-ryer-R19NC)
-* [Concurrency in Go by Katherine Cox-Buday](https://beta.readng.co/book/concurrency-in-go-by-katherine-cox-buday-YRoiU)
-* [Black Hat Go by Tom Steele, Chris Patten, Dan Kottman](https://beta.readng.co/book/black-hat-go-by-tom-steele-mz51G)
-* [Writing an interpreter in Go by Thorsten Ball](https://interpreterbook.com/)
-* [Writing a compiler in Go by Thorsten Ball](https://compilerbook.com/)
-* [Go programming Blueprints, 2e by Mat Ryer](https://beta.readng.co/book/go-programming-blueprints-second-edition-by-mat-ryer-3GpT1)
+* The Go Programming Language, Brian Kernighan & Alan Donovan
+* Mastering Go, Mihalis Tsoukalos
+* Go Design Pattern for Real-world projects, Mat Ryer & Vladimir Vivien & Mario Castro Contreras
+* Concurrency in Go, Katherine Cox-Buday
+* Black Hat Go, Tom Steele & Chris Patten & Dan Kottman
+* [Writing an interpreter in Go, Thorsten Ball](https://interpreterbook.com/)
+* [Writing a compiler in Go, Thorsten Ball](https://compilerbook.com/)
+* Go programming Blueprints, Mat Ryer 2e
 
 ## Docs
 - https://tour.golang.org

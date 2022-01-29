@@ -1,1 +1,1 @@
-A collection of the resources I use/am using/will use to learn concepts.
+A collection of the resources I used/am using/will use to learn concepts.

@@ -1,32 +1,37 @@
 # Drawing
 
 ## Basics
+
 * [Drawabox](https://www.drawabox.com)
-* [Illustrator & Concept artist learning path - Watts Atelier of the arts](https://www.wattsatelier.com/illustrator-concept-artist-learning-path)
-* [Fun with a pencil by Andrew Loomis](https://beta.readng.co/book/fun-with-a-pencil-by-andrew-loomis-eixV6)
-* [Drawing by Andrew Loomis](https://beta.readng.co/book/drawing-by-andrew-loomis-um0Zu)
-* [How to draw by Scott Robertson](https://beta.readng.co/book/how-to-draw-by-scott-robertson-D0J23)
-* [Perspective made easy by Ernest Norling](https://beta.readng.co/book/perspective-made-easy-by-ernest-r-norling-Lsqvd)
+* [Illustrator & Concept artist learning path, Watts Atelier of the arts](https://www.wattsatelier.com/illustrator-concept-artist-learning-path)
+* Fun with a pencil, Andrew Loomis
+* Drawing, Andrew Loomis
+* How to draw, Scott Robertson
+* Perspective made easy, Ernest Norling
 
 ## Figure Drawing
-* [Female figure drawing 1 - Jetty Jet Show](https://www.youtube.com/watch?v=-JWgnAaOiog&list=PLntQHDbCBWnx3Aw-UDlHC2CyoeR48b5Q9)
-* [How I Draw ANATOMY #1: Basic Gesture Drawing](https://www.youtube.com/watch?v=jB_SW4ry4DM&list=PLB5nUgozRxF-ak_GHT1_z9qrZ0Cp5ZTJi)
-* [Figure Drawing for all it's worth by Andrew loomis](https://beta.readng.co/book/figure-drawing-for-all-its-worth-by-andrew-loomis-1EbEB)
-* [Successfull Drawing by Andrew loomis](https://beta.readng.co/book/the-successful-drawing-by-andrew-loomis-GCsNq)
-* [Drawing the head by Andrew Loomis](https://beta.readng.co/book/drawing-the-head-by-andrew-loomis-tMZbV)
-* [Drawing the head & hands by Andrew Loomis](https://beta.readng.co/book/drawing-the-head-hands-by-andrew-loomis-bqyzf)
-* Figure Drawing by Michael Hampton
-* Dynamic Anatomy by Bume Hogarth
-* Guide to life drawing by George Bridgman
+
+* [Female figure drawing 1, Jetty Jet Show, YouTube](https://www.youtube.com/watch?v=-JWgnAaOiog&list=PLntQHDbCBWnx3Aw-UDlHC2CyoeR48b5Q9)
+* [How I Draw ANATOMY #1: Basic Gesture Drawing, YouTube](https://www.youtube.com/watch?v=jB_SW4ry4DM&list=PLB5nUgozRxF-ak_GHT1_z9qrZ0Cp5ZTJi)
+* Figure Drawing for all it's worth, Andrew loomis
+* Successfull Drawing, Andrew loomis
+* Drawing the head, Andrew Loomis
+* Drawing the head & hands, Andrew Loomis
+* Figure Drawing, Michael Hampton
+* Dynamic Anatomy, Bume Hogarth
+* Guide to life drawing, George Bridgman
 * Drawing cutting edge: Anatomy
-* Anatomy for the artist by Sarah Simblet
-* Atlas of human anatomy for artists by Stephen Robert Peck
+* Anatomy for the artist, Sarah Simblet
+* Atlas of human anatomy for artists, Stephen Robert Peck
 
 ## Color
-* [Dinotopia series by James Gurney](https://beta.readng.co/book/dinotopia-by-james-gurney-mqh1y)
-* Color & Light by James Gurney
+
+* Color & Light, James Gurney
+* Dinotopia series, James Gurney
+
 
 ## Manga
+
 * Manhwa Mania
 * Manga mania: Fantasy worlds
 * Manga mania: How to draw Japanese comics

@@ -11,6 +11,8 @@
 
 ## Figure Drawing
 
+* [Figure Drawing Fundamentals - Lesson #1 The Process](https://www.youtube.com/watch?v=gpH8T2CRlLI)
+* [Figure Drawing Fundamentals - Lesson #2 Back View](https://www.youtube.com/watch?v=Dffiympi1RA)
 * [Female figure drawing 1, Jetty Jet Show, YouTube](https://www.youtube.com/watch?v=-JWgnAaOiog&list=PLntQHDbCBWnx3Aw-UDlHC2CyoeR48b5Q9)
 * [How I Draw ANATOMY #1: Basic Gesture Drawing, YouTube](https://www.youtube.com/watch?v=jB_SW4ry4DM&list=PLB5nUgozRxF-ak_GHT1_z9qrZ0Cp5ZTJi)
 * Figure Drawing for all it's worth, Andrew loomis

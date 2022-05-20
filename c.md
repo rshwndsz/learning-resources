@@ -1,6 +1,7 @@
 # C
 
 ## Books
+
 * Effective C by Robert C. Seacord
 * Secure coding in C and C++ by Robert C. Seacord
 * Modern C by Jens Gustedt

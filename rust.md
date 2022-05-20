@@ -27,6 +27,7 @@
 - https://github.com/Azure/iotedge
 
 ## Talks & Explainers
+
 - [A Firehose of Rust, for busy people who know some C++, Jack O'Connor 2021](https://www.youtube.com/watch?v=IPmRDS0OSxM)
 - [Type Driven API design in Rust, Will Crichton InfoQ 2021](https://www.youtube.com/watch?v=bnnacleqg6k)
 - [Embedding Rust in C/C++, Katharina, RustConf 2018](https://www.youtube.com/watch?v=x9acx2zgx4Q)
@@ -34,10 +35,12 @@
 - [Jon Gjengset on YouTube](https://www.youtube.com/c/JonGjengset/playlists)
 
 ## Articles
+
 - [A half hour to learn rust, fasterthanli.me 2020](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Understanding Rust futures by going way too deep, fasterthanli.me 2021](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 - [C++ Move Semantics Considered Harmful & Rust is better, Jimmy Hartzell 2021](https://www.thecodedmessage.com/posts/cpp-move/)
 - [What Memory Model Should the Rust Language Use? - Paul E. McKenney, 2021](https://paulmck.livejournal.com/66175.html)
 
 ## Curated Lists
+
 - https://github.com/rust-unofficial/awesome-rust

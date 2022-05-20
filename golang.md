@@ -1,12 +1,14 @@
 # Go
 
 ## Quality Blogs
+
 - [Go best practices - six years in, Peter Bourgon 2016](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 - [Organising Database Access in Go, Alex Edwards 2020](https://www.alexedwards.net/blog/organising-database-access)
 - [Revisiting context and http.Handler for Go 1.7, Joe Shaw 2016](https://www.joeshaw.org/revisiting-context-and-http-handler-for-go-17/)
 - [Channel Axioms, Dave Cheney 2014](https://dave.cheney.net/2014/03/19/channel-axioms)
 
 ## Code
+
 * ⭐️ https://github.com/thockin/go-build-template
 * https://github.com/mattermost/mattermost-server
 * https://github.com/ribice/gorsk
@@ -18,6 +20,7 @@
 * https://github.com/peterzernia/lets-fork
 
 ## Books
+
 * The Go Programming Language, Brian Kernighan & Alan Donovan
 * Mastering Go, Mihalis Tsoukalos
 * Go Design Pattern for Real-world projects, Mat Ryer & Vladimir Vivien & Mario Castro Contreras
@@ -28,10 +31,11 @@
 * Go programming Blueprints, Mat Ryer 2e
 
 ## Docs
+
 - https://tour.golang.org
 - https://golang.org/doc/tutorial/
 - https://golang.org/doc/faq
-- https://golang.org/doc/effective_go
+- [Effective Go, golang.org](https://golang.org/doc/effective_go)
 - https://golang.org/ref/spec
 - https://golang.org/doc/articles/wiki/
 - https://golang.org/doc/#articles

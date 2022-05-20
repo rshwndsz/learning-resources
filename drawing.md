@@ -31,7 +31,6 @@
 * Color & Light, James Gurney
 * Dinotopia series, James Gurney
 
-
 ## Manga
 
 * Manhwa Mania

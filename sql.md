@@ -1,6 +1,7 @@
 # SQL
 
 ## Books
+
 - SQL in 10 minutes
 - The art of SQL, Stéphane Faroult
 - SQL Anti-patterns, Bill Karwin 2010  
